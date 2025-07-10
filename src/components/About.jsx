@@ -9,7 +9,7 @@ export default function About() {
       <div className="flex flex-col md:flex-row items-center gap-16">
         <div className="flex-1 space-y-6">
           <p className="text-lg leading-relaxed">
-            As a <span className="text-primary font-semibold">Full-Stack AI Engineer</span>, I build intelligent systems at <span className="text-primary font-semibold">Netlogistik</span>, I design and implement <span className="text-primary font-semibold">end-to-end digitalization systems</span> for supply chain operations. Currently looking for pursuing my <span className="text-primary font-semibold">Master's in AI</span> while obtaining <span className="text-primary font-semibold">AWS ML Specialty</span> certification.
+            As a <span className="text-primary font-semibold">Full-Stack AI Engineer</span>, I build intelligent systems at <span className="text-primary font-semibold">Netlogistik</span>, I design and implement <span className="text-primary font-semibold">end-to-end digitalization systems</span> for supply chain operations. Currently looking for pursuing my <span className="text-primary font-semibold">Master's in AI</span> while obtaining <span className="text-primary font-semibold">AWS ML</span> certification.
           </p>
           
           <p className="text-lg leading-relaxed">
